@@ -1,7 +1,6 @@
-#
-# now project are suspended
+# project is suspended now
 Summary:	Denise(R)-MYTH Artificial Intelligence
-Summary(pl):	Denise(R)-MYTH Sztuczna Inteligencja
+Summary(pl):	Denise(R)-MYTH - sztuczna inteligencja
 Name:		denise
 Version:	5.1.1
 Release:	1
