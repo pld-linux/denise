@@ -1,6 +1,6 @@
 # project is suspended now
 Summary:	Denise(R)-MYTH Artificial Intelligence
-Summary(pl):	Denise(R)-MYTH - sztuczna inteligencja
+Summary(pl.UTF-8):   Denise(R)-MYTH - sztuczna inteligencja
 Name:		denise
 Version:	5.1.1
 Release:	1
@@ -19,8 +19,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Denise(R)-MYTH project is a very interesting attemption of create
 artificial intelligence.
 
-%description -l pl
-Projekt Denise(R)-MYTH jest interesuj±c± prób± podjêcia tematu
+%description -l pl.UTF-8
+Projekt Denise(R)-MYTH jest interesujÄ…cÄ… prÃ³bÄ… podjÄ™cia tematu
 sztuczniej inteligencji.
 
 %prep
