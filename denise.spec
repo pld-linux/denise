@@ -25,7 +25,7 @@ sztuczniej inteligencji.
 
 %prep
 %setup -q
-%patch0 -p1
+%patch -P0 -p1
 cp %{SOURCE1} .
 
 %build
